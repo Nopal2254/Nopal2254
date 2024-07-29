@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nopal2254
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Programming especially on C# and C++
+- 🌱 I’m currently learning programming, especially C# and C++
 - 💞️ I'm doing solo project for now
 - 📫 You can contact me at :
+- Email: inaufal2254@gmail.com
 - Instagram : @nao.pal_229
 - Discord : @Nopal#8360
 
