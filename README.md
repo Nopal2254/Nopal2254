@@ -3,15 +3,17 @@ I'm Naomee a game developer based on Turkiye (I'm Indonesian)<br/>
 I'm a solo game dev so I do everything by myself from the ideas, code, design, music , etc.<br/>
 I also do any Python and web based project.<br/>
 
+🤖Currently learning on AI stuff<br/>
+
 This is my profile where I'll upload some of my projects and things that I'm currently working on. Feel free to reach me out.<br/>
 
 ---
-### Tools & Tech
+### Tools & Tech 🧰
 - Unity, C#, Blender, FL Studio
 - Python
 
 ---
-### Little Bit About Me
+### Little Bit About Me 🙇‍♂️
 - 🐈‍⬛ I like cat sooo much 
 - 🥢 I like noodle 
 - 📽️ Into Anime - Violet Evergarden is my favorite
