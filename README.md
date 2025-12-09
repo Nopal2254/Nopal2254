@@ -9,7 +9,9 @@ This is my profile where I'll upload some of my projects and things that I'm cur
 
 ---
 ### Tools & Tech 🧰
-- Unity, C#, Blender, FL Studio
+- Unity, C#
+- Blender, Krita, Aseprite
+- FL Studio, Audacity
 - Python
 
 ---
