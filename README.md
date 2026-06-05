@@ -2,8 +2,6 @@
 
 An Indonesian solo game developer and programmer currently based in Türkiye. I handle the entire pipeline of creation—from initial concept and C# logic to art, asset design, and audio composition. Beyond game dev, I build web applications, write Python scripts, and am currently diving deep into AI technologies, especially Machine Learning.
 
-🧑‍💻 **Solo Dev Pipeline:** Ideation ➔ Architecture ➔ Art/Asset Design ➔ Audio Composition
-
 ---
 
 ### 🧰 Tools & Tech Stack
