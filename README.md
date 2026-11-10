@@ -11,7 +11,7 @@ An Indonesian solo game developer and programmer currently based in Türkiye. I 
 | **Game Development** | ![Unity](https://img.shields.io/badge/Unity-2023.2+-lightgrey?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-8.0+-purple?style=flat-square&logo=c-sharp&logoColor=white) |
 | **Art & Design** | ![Blender](https://img.shields.io/badge/Blender-orange?style=flat-square&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-blue?style=flat-square&logo=krita&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-7D52B4?style=flat-square&logo=aseprite&logoColor=white) |
 | **Audio & Music** | ![FL Studio](https://img.shields.io/badge/FL_Studio-FF6B00?style=flat-square&logo=image-line&logoColor=white) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white) |
-| **Software & AI** | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) |![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=flat-square&logoColor=white) |
+| **Software & AI** | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=flat-square&logoColor=white) |
 
 ---
 
